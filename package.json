@@ -1,0 +1,25 @@
+{
+  "name": "hello-app",
+  "version": "1.0.0",
+  "description": "demo apps for release management",
+  "main": "index.js",
+  "scripts": {
+    "test": "xx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/asepmaryana/hello-app.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "release",
+    "release-it"
+  ],
+  "author": "asep maryana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asepmaryana/hello-app/issues"
+  },
+  "homepage": "https://github.com/asepmaryana/hello-app#readme"
+}
