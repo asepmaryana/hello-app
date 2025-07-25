@@ -1,7 +1,7 @@
 console.log('Hello Apps...');
 
 function hello(name) {
-    console.log(`Hello ${name}`);
+    console.log(`Hello ${name ?? 'World.'}`);
 }
 
 function today() {
