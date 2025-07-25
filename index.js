@@ -8,5 +8,9 @@ function today() {
     console.log(`Today is ${new Date()}`);
 }
 
+function upperCase(name) {
+    return name.toUpperCase();
+}
+
 hello('Developer');
 today();
