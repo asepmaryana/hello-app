@@ -27,5 +27,9 @@
   "bugs": {
     "url": "https://github.com/asepmaryana/hello-app/issues"
   },
-  "homepage": "https://github.com/asepmaryana/hello-app#readme"
+  "homepage": "https://github.com/asepmaryana/hello-app#readme",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^10.0.1",
+    "release-it": "^19.0.4"
+  }
 }
